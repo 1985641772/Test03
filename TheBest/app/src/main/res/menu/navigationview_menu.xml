@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_menu_find"
+            android:title="发现应用"
+            android:icon="@drawable/selector_home_menu_find"/>
+        <item
+            android:id="@+id/home_menu_dayBest"
+            android:title="每日最美"
+            android:icon="@drawable/selector_home_menu_daybest"/>
+        <item
+            android:id="@+id/home_menu_sort"
+            android:title="精选分类"
+            android:icon="@drawable/selector_home_menu_sort"/>
+        <item
+            android:id="@+id/home_menu_gameRecommend"
+            android:title="游戏推荐"
+            android:icon="@drawable/selector_home_menu_gamerecommend"/>
+
+    </group>
+</menu>
